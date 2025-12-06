@@ -1,4 +1,4 @@
-import se.alexandrakoch.adventofcode.day1.Dial;
+import se.alexandrakoch.adventofcode2025.day1.Dial;
 
 void main() {
     int password = 0;

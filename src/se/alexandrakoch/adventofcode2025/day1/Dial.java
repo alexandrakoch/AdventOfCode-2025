@@ -1,4 +1,4 @@
-package se.alexandrakoch.adventofcode.day1;
+package se.alexandrakoch.adventofcode2025.day1;
 
 public class Dial {
     private int dialPosition;
